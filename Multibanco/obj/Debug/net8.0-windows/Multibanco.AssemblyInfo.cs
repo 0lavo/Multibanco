@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multibanco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9cb29e2f3e4200c57cd0bb2ddb946ff4e893fe9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3d13b94d5903de77b46219c5124d44229f747eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multibanco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multibanco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
