@@ -18,35 +18,65 @@ namespace Multibanco.Model.dao
 
         public User readUser(string username, string password)
         {
-            
             try
             {
-                using (SqlConnection conn = new SqlConnection(connectionString))
+                SqlConnection conn = new SqlConnection(connectionString);
+
+                conn.Open();
+                string query = "SELECT * FROM Users WHERE username = @username AND password = @password";
+
+                SqlCommand sqlCommand = new SqlCommand(query, conn);
+
+                sqlCommand.Parameters.AddWithValue("@username", username);
+                sqlCommand.Parameters.AddWithValue("@password", password);
+
+                SqlDataReader reader = sqlCommand.ExecuteReader();
+
+                if (reader.Read())
                 {
-                    conn.Open();
-                    string query = "SELECT * FROM Users WHERE username = @username AND password = @password";
+                    int nId = Convert.ToInt32(reader["id"]);
+                    string nUsername = reader["username"].ToString();
+                    string nPassword = reader["password"].ToString();
+                    double nBalance = Convert.ToDouble(reader["balance"]);
 
-                    using (SqlCommand cmd = new SqlCommand(query, conn))
-                    {
-                        cmd.Parameters.AddWithValue("@username", username);
-                        cmd.Parameters.AddWithValue("@password", password);
-
-                        using (SqlDataReader reader = cmd.ExecuteReader())
-                        {
-                            if (reader.Read())
-                            {
-                                int nId = Convert.ToInt32(reader["id"]);
-                                string nUsername = reader["username"].ToString();
-                                string nPassword = reader["password"].ToString();
-
-                                return new User(nId,nUsername,nPassword);
-                            }
-                        }
-                    }
+                    return new User(nId, nUsername, nPassword,nBalance);
                 }
-            } catch (SqlException ex)
+
+            }
+            catch (SqlException ex)
             {
-                MessageBox.Show("Database access error");
+                MessageBox.Show("Database access error \n" + ex.Message);
+            }
+
+            return null;
+        }
+
+        public User createUser(string username, string password) 
+        {
+            User user = readUser(username, password);
+
+            if (user == null)
+            {
+
+                try
+                {
+                    SqlConnection conn = new SqlConnection(connectionString);
+
+                    conn.Open();
+                    string query = "INSERT INTO Users VALUES (@username,@password)";
+
+                    SqlCommand sqlCommand = new SqlCommand(query, conn);
+
+                    sqlCommand.Parameters.AddWithValue("@username", username);
+                    sqlCommand.Parameters.AddWithValue("@password", password);
+
+                }
+                catch (SqlException ex)
+                {
+                    MessageBox.Show("Database access error \n" + ex.Message);
+                }
+
+                return user;
             }
 
             return null;
@@ -54,21 +84,3 @@ namespace Multibanco.Model.dao
         
     }
 }
-
-/*
-public void connectionTest()
-        {
-            try
-            {
-                using (SqlConnection connection = new SqlConnection(connectionString))
-                {
-                    connection.Open();
-                    MessageBox.Show("Deu certo");
-                }
-            }
-            catch (SqlException ex)
-            {
-                MessageBox.Show($"Error:  {ex.Message}");
-            }
-        }
- */

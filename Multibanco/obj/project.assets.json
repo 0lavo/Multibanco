@@ -2174,25 +2174,28 @@
   "packageFolders": {
     "C:\\Users\\a22508533\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a22508533\\Documents\\Trabalhos\\Multibanco\\Multibanco\\Multibanco.csproj",
+      "projectUniqueName": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\Multibanco.csproj",
       "projectName": "Multibanco",
-      "projectPath": "C:\\Users\\a22508533\\Documents\\Trabalhos\\Multibanco\\Multibanco\\Multibanco.csproj",
+      "projectPath": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\Multibanco.csproj",
       "packagesPath": "C:\\Users\\a22508533\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a22508533\\Documents\\Trabalhos\\Multibanco\\Multibanco\\obj\\",
+      "outputPath": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\a22508533\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0-windows"
@@ -2217,8 +2220,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -2256,7 +2258,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

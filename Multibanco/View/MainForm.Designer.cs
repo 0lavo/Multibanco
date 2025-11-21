@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             ExitButton = new Button();
+            welcomeTxtBox = new TextBox();
+            balanceTxtBox = new TextBox();
             SuspendLayout();
             // 
             // ExitButton
@@ -42,19 +44,40 @@
             ExitButton.UseVisualStyleBackColor = true;
             ExitButton.Click += ExitButton_Click;
             // 
+            // welcomeTxtBox
+            // 
+            welcomeTxtBox.Font = new Font("Segoe UI", 14F);
+            welcomeTxtBox.Location = new Point(57, 61);
+            welcomeTxtBox.Name = "welcomeTxtBox";
+            welcomeTxtBox.Size = new Size(199, 32);
+            welcomeTxtBox.TabIndex = 2;
+            // 
+            // balanceTxtBox
+            // 
+            balanceTxtBox.Font = new Font("Segoe UI", 20F);
+            balanceTxtBox.Location = new Point(583, 61);
+            balanceTxtBox.Name = "balanceTxtBox";
+            balanceTxtBox.Size = new Size(147, 43);
+            balanceTxtBox.TabIndex = 3;
+            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(balanceTxtBox);
+            Controls.Add(welcomeTxtBox);
             Controls.Add(ExitButton);
             Name = "MainForm";
             Text = "Form1";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
         private Button ExitButton;
+        private TextBox welcomeTxtBox;
+        private TextBox balanceTxtBox;
     }
 }

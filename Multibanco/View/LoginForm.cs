@@ -20,8 +20,6 @@ namespace Multibanco
         private void LoginButton_Click(object sender, EventArgs e)
         {
             controller.login(UsernameTxtBox.Text, PasswordTxtBox.Text);
-            //MainForm mainform = new MainForm();
-            //mainform.Show();
         }
 
         private void NewUserButton_Click(object sender, EventArgs e)

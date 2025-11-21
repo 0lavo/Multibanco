@@ -19,12 +19,18 @@ namespace Multibanco.Controller
 
             if (user != null)
             {
-                MainForm form = new MainForm();
+                MainForm form = new MainForm(user);
                 form.Show();
-                return;
             }
+        }
 
-            MessageBox.Show("This user dont exist");
+        public bool createUser(string username, string password)
+        {
+            if (userDao.createUser(username, password) == null)
+            {
+                return false;
+            }
+            return true;
         }
     }
 }

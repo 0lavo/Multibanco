@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WOmJwVqlfRY=",
+  "dgSpecHash": "gf6gR3yHfS0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\a22508533\\Documents\\Trabalhos\\Multibanco\\Multibanco\\Multibanco.csproj",
+  "projectFilePath": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\Multibanco.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a22508533\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\a22508533\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

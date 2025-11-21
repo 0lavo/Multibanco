@@ -83,6 +83,7 @@
             CreateNewUserButton.TabIndex = 7;
             CreateNewUserButton.Text = "Create New User";
             CreateNewUserButton.UseVisualStyleBackColor = true;
+            CreateNewUserButton.Click += CreateNewUserButton_Click;
             // 
             // NewUserForm
             // 
