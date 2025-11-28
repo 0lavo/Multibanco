@@ -19,7 +19,10 @@ namespace Multibanco
 
         private void LoginButton_Click(object sender, EventArgs e)
         {
-            controller.login(UsernameTxtBox.Text, PasswordTxtBox.Text);
+            if (!controller.login(UsernameTxtBox.Text, PasswordTxtBox.Text))
+            {
+                MessageBox.Show("Wrong username or password");
+            }
         }
 
         private void NewUserButton_Click(object sender, EventArgs e)

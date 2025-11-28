@@ -13,7 +13,7 @@ namespace Multibanco.Controller
     internal class MainController
     {
         UserDao userDao = new UserDao();
-        public void login(string username, string password)
+        public bool login(string username, string password)
         {
             User user = userDao.readUser(username, password);
 
@@ -21,10 +21,9 @@ namespace Multibanco.Controller
             {
                 MainForm form = new MainForm(user);
                 form.Show();
-                return;
+                return true;
             }
-
-            MessageBox.Show("Wrong username or password");
+            return false;
         }
 
         public bool createUser(string username, string password)
@@ -36,7 +35,26 @@ namespace Multibanco.Controller
 
             return true;
         }
+
+        public bool deposit(double amount, User user)
+        {
+            if (amount > 0)
+            {
+                user.setBalance(user.getBalance() + amount);
+                return true;
+            }
+            return false;
+        }
+
+        public bool withdraw(double amount, User user)
+        {
+            if (amount > 0 && amount <= user.getBalance())
+            {
+                user.setBalance(user.getBalance() - amount);
+                return true;
+            }
+            return false;
+        }
     }
 }
 
-// test git in college git

@@ -13,7 +13,7 @@ namespace Multibanco.Model.dao
 {
     internal class UserDao
     {
-        private string connectionString = "Server=DESKTOP-0EK8KNN;Database=MultibancoDB;Integrated Security=true;TrustServerCertificate=true;";
+        private string connectionString = "Server=L0-22P7\\MSSQLSERVER1;Database=MultibancoDB;Integrated Security=true;TrustServerCertificate=true;";
 
         // username, password 
 
