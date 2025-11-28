@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\",
+  "WorkspaceRootPath": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|c:\\users\\a22508533\\documents\\oop\\multibanco\\multibanco\\controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|c:\\users\\olavo\\documents\\faculdade\\multibanco\\multibanco\\controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|c:\\users\\a22508533\\documents\\oop\\multibanco\\multibanco\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|c:\\users\\olavo\\documents\\faculdade\\multibanco\\multibanco\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|c:\\users\\a22508533\\documents\\oop\\multibanco\\multibanco\\view\\newuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\view\\newuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|c:\\users\\a22508533\\documents\\oop\\multibanco\\multibanco\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|c:\\users\\olavo\\documents\\faculdade\\multibanco\\multibanco\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|c:\\users\\a22508533\\documents\\oop\\multibanco\\multibanco\\model\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\model\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|c:\\users\\olavo\\documents\\faculdade\\multibanco\\multibanco\\view\\newuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\view\\newuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|c:\\users\\a22508533\\documents\\oop\\multibanco\\multibanco\\view\\newuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\multibanco\\view\\newuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\view\\newuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|c:\\users\\a22508533\\documents\\oop\\multibanco\\multibanco\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\multibanco\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\multibanco\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\multibanco\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|c:\\users\\olavo\\documents\\faculdade\\multibanco\\multibanco\\model\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12BF716-318E-4FCE-BAB2-A07A784785D2}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\model\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,62 +46,62 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainForm.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\View\\MainForm.cs",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\View\\MainForm.cs",
               "RelativeDocumentMoniker": "Multibanco\\View\\MainForm.cs",
-              "ToolTip": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\View\\MainForm.cs [Projeto]",
-              "RelativeToolTip": "Multibanco\\View\\MainForm.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\View\\MainForm.cs [Design]",
+              "RelativeToolTip": "Multibanco\\View\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T16:38:54.037Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginForm.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\View\\LoginForm.cs",
-              "RelativeDocumentMoniker": "Multibanco\\View\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\View\\LoginForm.cs [Projeto]",
-              "RelativeToolTip": "Multibanco\\View\\LoginForm.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T15:00:41.78Z",
-              "EditorCaption": " [Projeto]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "NewUserForm.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\View\\NewUserForm.cs",
-              "RelativeDocumentMoniker": "Multibanco\\View\\NewUserForm.cs",
-              "ToolTip": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\View\\NewUserForm.cs [Projeto]",
-              "RelativeToolTip": "Multibanco\\View\\NewUserForm.cs [Projeto]",
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\View\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Multibanco\\View\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\View\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Multibanco\\View\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T14:06:20.089Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-11-21T15:00:41.78Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "NewUserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\View\\NewUserForm.cs",
+              "RelativeDocumentMoniker": "Multibanco\\View\\NewUserForm.cs",
+              "ToolTip": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\View\\NewUserForm.cs [Design]",
+              "RelativeToolTip": "Multibanco\\View\\NewUserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:06:20.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\View\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\View\\LoginForm.cs",
               "RelativeDocumentMoniker": "Multibanco\\View\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\View\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\View\\LoginForm.cs",
               "RelativeToolTip": "Multibanco\\View\\LoginForm.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBwAAAAJAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T15:00:44.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "NewUserForm.cs",
-              "DocumentMoniker": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\View\\NewUserForm.cs",
+              "DocumentMoniker": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\View\\NewUserForm.cs",
               "RelativeDocumentMoniker": "Multibanco\\View\\NewUserForm.cs",
-              "ToolTip": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\View\\NewUserForm.cs",
+              "ToolTip": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\View\\NewUserForm.cs",
               "RelativeToolTip": "Multibanco\\View\\NewUserForm.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAD4vxwAAAANAAAA",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswB8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T14:06:36.17Z",
               "EditorCaption": ""
@@ -110,11 +110,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\View\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\View\\MainForm.cs",
               "RelativeDocumentMoniker": "Multibanco\\View\\MainForm.cs",
-              "ToolTip": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\View\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\View\\MainForm.cs",
               "RelativeToolTip": "Multibanco\\View\\MainForm.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAkwB4AAAAJAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T13:44:24.807Z",
               "EditorCaption": ""
@@ -123,27 +123,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainController.cs",
-              "DocumentMoniker": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\Controller\\MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\Controller\\MainController.cs",
               "RelativeDocumentMoniker": "Multibanco\\Controller\\MainController.cs",
-              "ToolTip": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\Controller\\MainController.cs",
+              "ToolTip": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\Controller\\MainController.cs",
               "RelativeToolTip": "Multibanco\\Controller\\MainController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAswCEAAAAJAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswB8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T16:39:01.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "UserDao.cs",
-              "DocumentMoniker": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\Model\\dao\\UserDao.cs",
+              "DocumentMoniker": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\Model\\dao\\UserDao.cs",
               "RelativeDocumentMoniker": "Multibanco\\Model\\dao\\UserDao.cs",
-              "ToolTip": "C:\\Users\\a22508533\\Documents\\OOP\\Multibanco\\Multibanco\\Model\\dao\\UserDao.cs",
+              "ToolTip": "C:\\Users\\Olavo\\Documents\\Faculdade\\Multibanco\\Multibanco\\Model\\dao\\UserDao.cs",
               "RelativeToolTip": "Multibanco\\Model\\dao\\UserDao.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAUwDgAAAAAAAAA",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T14:07:20.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T14:07:20.944Z"
             }
           ]
         }

@@ -21,7 +21,10 @@ namespace Multibanco.Controller
             {
                 MainForm form = new MainForm(user);
                 form.Show();
+                return;
             }
+
+            MessageBox.Show("Wrong username or password");
         }
 
         public bool createUser(string username, string password)
@@ -30,6 +33,7 @@ namespace Multibanco.Controller
             {
                 return false;
             }
+
             return true;
         }
     }

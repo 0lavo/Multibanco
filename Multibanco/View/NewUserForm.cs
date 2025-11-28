@@ -28,6 +28,7 @@ namespace Multibanco.View
             if (controller.createUser(UsernameTxtBox.Text, PasswordTxtBox.Text))
             {
                 MessageBox.Show("User created");
+                return;
             }
             MessageBox.Show("This user allready exists");
         }
